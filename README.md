@@ -1,1 +1,1 @@
-be gay
+learn
