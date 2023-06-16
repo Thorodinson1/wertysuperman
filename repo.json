@@ -3,6 +3,6 @@
     "description": "Providers for Learning Purposes",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/plugins.json"
+        "https://github.com/Thorodinson1/wertysuperman/blob/master/build/plugins.json"
     ]
 }
