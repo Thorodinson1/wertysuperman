@@ -1,0 +1,183 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=appaudiobooks.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 10416,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "AppAudiobookProvider",
+        "description": "Audiobooks with some more books not in other sources -  download in addition to GoldenAudiobooks if book not found there",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/AppAudiobookProvider.cs3",
+        "name": "AppAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://coolsanime.me//&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 16937,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 4,
+        "internalName": "CoolsAnimeProvider",
+        "description": "Hindi dubbed cartoons - Good site imo, if broken links found ping dontseehere on Discord",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/CoolsAnimeProvider.cs3",
+        "name": "CoolsAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=deadtoons.co/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 10470,
+        "status": 0,
+        "language": "hi",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 11,
+        "internalName": "DeadToonsIndiaProvider",
+        "description": "Hard to scrap, dropped",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/DeadToonsIndiaProvider.cs3",
+        "name": "DeadToonsIndiaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fulltoonsindia.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 15826,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 9,
+        "internalName": "FullToonsIndiaProvider",
+        "description": "hindi dubbed cartoons - only Doodstream works, wait 10 seconds for Mediafire links",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/FullToonsIndiaProvider.cs3",
+        "name": "FullToonsIndiaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 12170,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 10,
+        "internalName": "GoldenAudiobookProvider",
+        "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/GoldenAudiobookProvider.cs3",
+        "name": "GoldenAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 10897,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 4,
+        "internalName": "LibriVoxAudiobookProvider",
+        "description": "Audiobooks in public domain",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/LibriVoxAudiobookProvider.cs3",
+        "name": "LibriVoxAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=noodlemagazine.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 12278,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "NoodleMagazineProvider",
+        "description": "type .nofap in discord - Full Length",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/NoodleMagazineProvider.cs3",
+        "name": "NoodleMagazineProvider"
+    },
+    {
+        "iconUrl": "https://tokybook.com/wp-content/uploads/TOKY-BOOK-website.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 11377,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "TokyBookProvider",
+        "description": "Audiobook Source with good library, use Search, the homepage sucks",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/TokyBookProvider.cs3",
+        "name": "TokyBookProvider"
+    },
+    {
+        "iconUrl": "https://toonworld4all.me/wp-content/uploads/2020/02/Toonworld4all-logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/dontseehere/cs3-repos",
+        "fileSize": 22833,
+        "status": 0,
+        "language": "hi",
+        "authors": [
+            "dontseehere"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "ToonWorldForAllProvider",
+        "description": "REPORT BROKEN LINKS IN DISCORD AND PING DONTSEEHERE, Hindi cartoons, wait for other video quality to load, each takes 5 sec bcz rocklinks :/",
+        "url": "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/ToonWorldForAllProvider.cs3",
+        "name": "ToonWorldForAllProvider"
+    }
+]
