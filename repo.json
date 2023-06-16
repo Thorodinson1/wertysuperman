@@ -1,0 +1,8 @@
+{
+    "name": "dontseehere providers repository",
+    "description": "Providers for Learning Purposes",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/plugins.json"
+    ]
+}
