@@ -1,0 +1,8 @@
+{
+    "name": "dontseehere providers repository",
+    "description": "Providers for Learning Purposes",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://github.com/Thorodinson1/wertysupermanbuild/-/raw/master/build/plugins.json"
+    ]
+}
