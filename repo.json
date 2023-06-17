@@ -3,6 +3,6 @@
     "description": "Providers for Learning Purposes",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://github.com/Thorodinson1/wertysupermanbuild/-/raw/build/build/plugins.json"
+        "https://raw.githubusercontent.com/Thorodinson1/wertysuperman/master/build/plugins.json"
     ]
 }
