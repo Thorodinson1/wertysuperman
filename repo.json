@@ -1,8 +1,8 @@
 {
-    "name": "dontseehere providers repository",
+    "name": "darthvaderrepo",
     "description": "Providers for Learning Purposes",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://github.com/Thorodinson1/darthvaderrepo/blob/d4b3648ba138e16dc1d865c12c1e9f49a44ec489/plugins.json"
+        "https://raw.githubusercontent.com/Thorodinson1/darthvaderrepo/builds/plugins.json"
     ]
 }
