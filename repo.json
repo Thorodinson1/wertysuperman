@@ -3,6 +3,6 @@
     "description": "Providers for Learning Purposes",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/Thorodinson1/darthvaderrepo/builds/plugins.json"
+        "https://raw.githubusercontent.com/Thorodinson1/cloudstream-extensions-hexated/builds/plugins.json"
     ]
 }
