@@ -1,0 +1,8 @@
+{
+    "name": "master yoda",
+    "description": "Providers for Learning Purposes",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Thorodinson1/cloudstream-extensions/builds/plugins.json"
+    ]
+}
