@@ -37,8 +37,8 @@ subprojects {
     cloudstream {
         // when running through github workflow, GITHUB_REPOSITORY should contain current repository name
         // you can modify it to use other git hosting services, like gitlab etc
-        //setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://gitlab.com/dontseehere/cs3-repos")
-        setRepo("dontseehere","cs3-repos","https://gitlab.com/dontseehere/cs3-repos","https://gitlab.com/dontseehere/cs3-repos/-/raw/main/%filename%")
+        //setRepo(System.getenv("GITHUB_REPOSITORY") ?: "")
+        setRepo("")
     }
 
     android {
