@@ -1,0 +1,8 @@
+{
+    "name": "tolerance providers repository",
+    "description": "ed",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Thorodinson1/commandertolerance/builds/plugins.json"
+    ]
+}
