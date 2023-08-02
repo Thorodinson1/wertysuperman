@@ -1,8 +1,1 @@
-{
-    "name": "darthvaderrepo",
-    "description": "Providers for Learning Purposes",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/Thorodinson1/cloudstream-extensions-hexated/builds/plugins.json"
-    ]
-}
+oops
